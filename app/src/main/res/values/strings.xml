@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub User (Navigation dan API)</string>
+    <string name="searchbar_hint">Cari User</string>
+    <string name="username">Username</string>
+    <string name="htlm_link">htlm_link</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="namaUser">Nama User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fav">favorite</string>
+    <string name="set">setting</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
